@@ -1,4 +1,4 @@
-import profilePic from "../assets/pic4.png"; // make sure your image is in src/assets/
+import profilePic from "../assets/pic5.png";
 
 function Hero() {
   return (
